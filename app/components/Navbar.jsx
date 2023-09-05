@@ -16,7 +16,7 @@ export default function Navbar() {
           <h1> Ticket Center</h1>
           <Link href="/">Dashboard</Link>
       <Link href="/tickets">Tickets</Link>
-      <Link href='/tickets/createForms' > Add a ticket</Link>
+      <Link href='/tickets/createForms' > Add ticket</Link>
         </nav>
         
   )
